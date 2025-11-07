@@ -26,12 +26,6 @@ This repository contains a comprehensive analytics solution developed to diagnos
 - ROI simulation by customer segment and strategy
 - CAC benchmarking dashboard
 
-📁 Repository Structure
-├── data/                   # Raw and processed datasets
-├── notebooks/              # Jupyter notebooks for analysis and modelling
-├── reports/                # Strategic insights and presentation slides
-├── README.md               # Project overview and documentation
-
 ## 📈 Methodology Highlights
 - RFM Scoring: Used to segment customers based on pre-crisis engagement
 - Sentiment Modelling: Monthly score trends extracted from review text using NLP
